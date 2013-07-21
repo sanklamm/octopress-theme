@@ -1,0 +1,7 @@
+---
+layout: nil
+---
+User-agent: *
+Disallow: /Impressum/
+
+Sitemap: {{ site.url }}/sitemap.xml 

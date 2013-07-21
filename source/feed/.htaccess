@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule /* http://feeds.feedburner.com/Hirnrekorder [R=301,L]
